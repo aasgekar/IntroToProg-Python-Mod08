@@ -1,0 +1,4 @@
+Lamp, 25.85
+Book, 19.99
+Pillow, 6.0
+Vase, 30.29
